@@ -17,3 +17,6 @@ format:
 
 editor: visual
 
+comments:
+  giscus:
+    repo: alv-garcia/Alv_garcia
